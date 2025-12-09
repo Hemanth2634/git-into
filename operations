@@ -2,4 +2,4 @@ def operations(n,a,b):
     if n=='+':
         return a+b
     if n =='-':
-        pass
+        return a-b
