@@ -3,3 +3,5 @@ def operations(n,a,b):
         return a+b
     if n =='-':
         return a-b
+    else:
+        return "not specified"
